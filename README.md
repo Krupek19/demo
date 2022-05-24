@@ -2,5 +2,5 @@
 
 This is a simple file 
 
-Modyfikacje nowe 
-on a branch
+I hope it 
+is not a problem
